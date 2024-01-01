@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/blog/</loc>
+    <loc>https://humditty.github.io/xh.github.io/blog/</loc>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://humditty.github.io/xh.github.io/</loc>
   </url><url>
-    <loc>https://example.org/series/</loc>
+    <loc>https://humditty.github.io/xh.github.io/series/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://humditty.github.io/xh.github.io/tags/</loc>
   </url>
 </urlset>
